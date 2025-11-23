@@ -139,6 +139,7 @@ code/
 ## 👥 Author
 
 Student Project - SDSC3006
+Tsang, Wai Chit
 
 ## 📄 License
 
